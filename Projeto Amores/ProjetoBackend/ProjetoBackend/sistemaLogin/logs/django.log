@@ -1,0 +1,232 @@
+INFO 2026-05-16 21:53:25,299 autoreload 1588 2252 Watching for file changes with StatReloader
+INFO 2026-05-16 22:27:35,667 autoreload 11240 11156 Watching for file changes with StatReloader
+INFO 2026-05-16 22:32:26,503 autoreload 9140 9948 Watching for file changes with StatReloader
+INFO 2026-05-16 22:38:34,029 autoreload 12280 2124 Watching for file changes with StatReloader
+INFO 2026-05-16 22:40:10,228 autoreload 9548 14776 Watching for file changes with StatReloader
+INFO 2026-05-16 22:44:31,549 autoreload 15132 1608 Watching for file changes with StatReloader
+INFO 2026-05-16 22:49:06,204 autoreload 3832 9368 Watching for file changes with StatReloader
+INFO 2026-05-17 21:10:42,786 autoreload 11512 12548 Watching for file changes with StatReloader
+INFO 2026-05-17 21:16:19,403 autoreload 12816 11948 Watching for file changes with StatReloader
+INFO 2026-05-17 21:16:42,242 log 12816 11720 "GET / HTTP/1.1" 200 8497
+INFO 2026-05-17 21:16:42,285 log 12816 11720 "GET /static/style.css HTTP/1.1" 200 7609
+INFO 2026-05-17 21:16:42,307 log 12816 2448 "GET /static/script.js HTTP/1.1" 200 3558
+INFO 2026-05-17 21:16:42,310 log 12816 2688 "GET /static/240128288_101882762220758_514143314545400136_n.jpg HTTP/1.1" 200 32707
+WARNING 2026-05-17 21:16:42,610 log 12816 2688 "GET /static/bg.png HTTP/1.1" 404 1945
+WARNING 2026-05-17 21:16:43,178 log 12816 2448 Not Found: /favicon.ico
+WARNING 2026-05-17 21:16:43,179 log 12816 2448 "GET /favicon.ico HTTP/1.1" 404 5264
+INFO 2026-05-17 21:16:53,978 log 12816 2448 "GET /login/ HTTP/1.1" 200 508
+INFO 2026-05-17 21:17:05,639 log 12816 2448 "POST /login/ HTTP/1.1" 200 616
+INFO 2026-05-17 21:17:55,027 log 12816 2448 "GET / HTTP/1.1" 200 8497
+WARNING 2026-05-17 21:17:55,071 log 12816 2448 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 21:18:10,061 log 12816 11720 "GET /login/ HTTP/1.1" 200 508
+INFO 2026-05-17 21:18:16,585 log 12816 11720 "POST /login/ HTTP/1.1" 200 616
+INFO 2026-05-17 21:29:28,612 autoreload 16188 3332 Watching for file changes with StatReloader
+INFO 2026-05-17 21:29:41,732 log 12816 3020 "GET / HTTP/1.1" 200 8497
+WARNING 2026-05-17 21:29:41,757 log 12816 3020 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 21:29:44,318 log 12816 16620 "GET /login/ HTTP/1.1" 200 508
+INFO 2026-05-17 21:30:37,543 log 12816 16620 "POST /login/ HTTP/1.1" 200 611
+INFO 2026-05-17 21:32:52,599 log 12816 16620 "POST /login/ HTTP/1.1" 200 611
+INFO 2026-05-17 21:37:42,361 autoreload 7720 16400 Watching for file changes with StatReloader
+INFO 2026-05-17 21:37:55,463 log 12816 9076 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-17 21:37:55,489 log 12816 9076 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 21:38:01,975 log 12816 16524 "GET /login/ HTTP/1.1" 200 508
+INFO 2026-05-17 21:38:58,400 log 12816 16524 "POST /login/ HTTP/1.1" 200 622
+INFO 2026-05-17 21:39:09,648 log 12816 16524 "POST /login/ HTTP/1.1" 200 612
+INFO 2026-05-17 21:44:57,648 autoreload 12816 11948 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\forms.py changed, reloading.
+INFO 2026-05-17 21:44:58,018 autoreload 7720 16400 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\forms.py changed, reloading.
+INFO 2026-05-17 21:44:58,357 autoreload 16188 3332 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\forms.py changed, reloading.
+INFO 2026-05-17 21:44:58,389 autoreload 7816 16592 Watching for file changes with StatReloader
+INFO 2026-05-17 21:44:58,718 autoreload 15512 13372 Watching for file changes with StatReloader
+INFO 2026-05-17 21:44:59,030 autoreload 15056 8132 Watching for file changes with StatReloader
+INFO 2026-05-17 21:45:09,970 autoreload 15512 13372 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-17 21:45:10,300 autoreload 15056 8132 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-17 21:45:10,757 autoreload 5944 16696 Watching for file changes with StatReloader
+INFO 2026-05-17 21:45:10,758 autoreload 7816 16592 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-17 21:45:11,061 autoreload 3208 5800 Watching for file changes with StatReloader
+INFO 2026-05-17 21:45:11,456 autoreload 9932 12940 Watching for file changes with StatReloader
+INFO 2026-05-17 21:47:13,898 autoreload 13908 9168 Watching for file changes with StatReloader
+INFO 2026-05-17 21:47:21,118 log 5944 13124 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-17 21:47:21,140 log 5944 13124 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 21:47:24,960 log 5944 15624 "GET /login/ HTTP/1.1" 200 624
+INFO 2026-05-17 21:47:30,579 log 5944 15624 "GET /registro/ HTTP/1.1" 200 1959
+INFO 2026-05-17 21:48:42,026 log 5944 15624 "POST /registro/ HTTP/1.1" 200 2154
+INFO 2026-05-17 21:49:35,711 log 5944 15624 "POST /registro/ HTTP/1.1" 200 2154
+INFO 2026-05-17 21:49:47,239 log 5944 15624 "GET /registro/ HTTP/1.1" 200 1959
+INFO 2026-05-17 21:49:53,606 log 5944 15624 "POST /login/ HTTP/1.1" 200 753
+INFO 2026-05-17 21:50:05,856 log 5944 15624 "GET /registro/ HTTP/1.1" 200 1959
+INFO 2026-05-17 21:56:40,429 autoreload 11816 11456 Watching for file changes with StatReloader
+INFO 2026-05-17 21:56:47,128 log 11816 17240 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-17 21:56:47,154 log 11816 17240 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 21:56:50,497 log 11816 8484 "GET /login/ HTTP/1.1" 200 2634
+INFO 2026-05-17 21:57:15,819 log 11816 8484 "GET /login/ HTTP/1.1" 200 2634
+INFO 2026-05-17 21:57:31,159 log 11816 8484 "POST /login/ HTTP/1.1" 200 3106
+INFO 2026-05-17 21:57:35,769 log 11816 3108 "GET /registro/ HTTP/1.1" 200 4491
+INFO 2026-05-17 21:58:02,097 log 11816 3108 "POST /registro/ HTTP/1.1" 302 0
+INFO 2026-05-17 21:58:02,100 log 11816 3108 "GET /login/ HTTP/1.1" 200 3067
+INFO 2026-05-17 21:58:27,361 log 11816 3108 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-17 21:58:27,367 log 11816 3108 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-17 21:58:43,069 log 11816 3108 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-17 21:58:43,073 log 11816 3108 "GET /login/ HTTP/1.1" 200 3063
+INFO 2026-05-17 21:58:49,570 log 11816 3108 "GET /login/ HTTP/1.1" 200 2634
+INFO 2026-05-17 21:59:45,248 autoreload 12536 14188 Watching for file changes with StatReloader
+INFO 2026-05-17 22:03:17,129 log 11816 3108 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-17 22:03:17,158 log 11816 3108 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 22:03:21,627 log 11816 6760 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-17 22:03:26,095 log 11816 6760 "GET /registro/ HTTP/1.1" 200 6214
+INFO 2026-05-17 22:04:09,820 log 11816 6760 "POST /registro/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:04:09,824 log 11816 6760 "GET /login/ HTTP/1.1" 200 4790
+INFO 2026-05-17 22:04:54,102 log 11816 6760 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:04:54,108 log 11816 6760 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-17 22:06:25,000 autoreload 15436 13760 Watching for file changes with StatReloader
+INFO 2026-05-17 22:06:34,139 log 15436 15264 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-17 22:06:34,158 log 15436 15264 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 22:06:39,479 log 15436 16188 "GET /login/ HTTP/1.1" 200 4786
+INFO 2026-05-17 22:06:43,165 log 15436 16188 "GET /registro/ HTTP/1.1" 200 6214
+INFO 2026-05-17 22:07:07,682 log 15436 16188 "POST /registro/ HTTP/1.1" 200 6469
+INFO 2026-05-17 22:08:05,544 log 15436 16188 "POST /registro/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:08:05,547 log 15436 16188 "GET /login/ HTTP/1.1" 200 4790
+INFO 2026-05-17 22:08:27,354 log 15436 16188 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:08:27,360 log 15436 16188 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-17 22:08:38,523 log 15436 16188 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:08:38,526 log 15436 16188 "GET /login/ HTTP/1.1" 200 4786
+INFO 2026-05-17 22:09:31,759 log 15436 16188 "POST /login/ HTTP/1.1" 200 4813
+INFO 2026-05-17 22:10:23,838 log 15436 16188 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:10:23,843 log 15436 16188 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-17 22:13:51,183 autoreload 13028 1188 Watching for file changes with StatReloader
+INFO 2026-05-17 22:14:07,184 log 13028 4576 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-17 22:14:07,211 log 13028 4576 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-17 22:14:11,283 log 13028 14692 "GET /login/ HTTP/1.1" 200 4786
+INFO 2026-05-17 22:14:14,586 log 13028 14692 "GET /registro/ HTTP/1.1" 200 6214
+INFO 2026-05-17 22:15:03,018 log 13028 14692 "POST /registro/ HTTP/1.1" 200 6458
+INFO 2026-05-17 22:15:29,497 log 13028 14692 "POST /registro/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:15:29,500 log 13028 14692 "GET /login/ HTTP/1.1" 200 4790
+INFO 2026-05-17 22:15:37,784 log 13028 14692 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:15:37,790 log 13028 14692 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-17 22:15:43,448 log 13028 14692 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-17 22:15:43,451 log 13028 14692 "GET /login/ HTTP/1.1" 200 4786
+INFO 2026-05-18 20:14:21,019 autoreload 4076 6204 Watching for file changes with StatReloader
+INFO 2026-05-18 20:14:32,881 log 4076 11948 "GET / HTTP/1.1" 200 8491
+INFO 2026-05-18 20:14:32,996 log 4076 6312 "GET /static/240128288_101882762220758_514143314545400136_n.jpg HTTP/1.1" 200 32707
+INFO 2026-05-18 20:14:32,998 log 4076 1592 "GET /static/script.js HTTP/1.1" 200 3558
+INFO 2026-05-18 20:14:32,998 log 4076 11948 "GET /static/style.css HTTP/1.1" 200 7609
+WARNING 2026-05-18 20:14:33,255 log 4076 11948 "GET /static/bg.png HTTP/1.1" 404 1945
+WARNING 2026-05-18 20:14:34,072 log 4076 1592 Not Found: /favicon.ico
+WARNING 2026-05-18 20:14:34,072 log 4076 1592 "GET /favicon.ico HTTP/1.1" 404 5264
+INFO 2026-05-18 20:14:46,426 log 4076 1592 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 20:14:51,750 log 4076 1592 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 20:14:51,765 log 4076 1592 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-18 20:15:35,619 log 4076 1592 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-18 20:15:35,623 log 4076 1592 "GET /login/ HTTP/1.1" 200 4786
+INFO 2026-05-18 20:16:01,669 log 4076 1592 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 20:16:05,181 log 4076 1592 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 20:16:05,187 log 4076 1592 "GET /home/ HTTP/1.1" 200 119
+INFO 2026-05-18 20:52:45,016 autoreload 7052 9572 Watching for file changes with StatReloader
+INFO 2026-05-18 20:52:51,807 log 7052 9044 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-18 20:52:51,832 log 7052 9044 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-18 20:52:57,158 log 7052 6536 "GET /login/ HTTP/1.1" 200 4786
+INFO 2026-05-18 20:53:02,781 log 7052 6536 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 20:53:02,797 log 7052 6536 "GET /home/ HTTP/1.1" 200 10446
+INFO 2026-05-18 20:53:37,228 log 7052 6536 "POST /home/ HTTP/1.1" 302 0
+INFO 2026-05-18 20:53:37,236 log 7052 6536 "GET /home/ HTTP/1.1" 200 11393
+INFO 2026-05-18 20:54:54,855 log 7052 6536 "GET /home/ HTTP/1.1" 200 10815
+INFO 2026-05-18 20:55:06,334 log 7052 6536 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 20:55:13,309 log 7052 6536 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 20:55:13,317 log 7052 6536 "GET /home/ HTTP/1.1" 200 11390
+INFO 2026-05-18 21:03:44,133 autoreload 7052 9572 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:03:44,790 autoreload 9124 11060 Watching for file changes with StatReloader
+INFO 2026-05-18 21:03:53,706 autoreload 9124 11060 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\urls.py changed, reloading.
+INFO 2026-05-18 21:03:54,451 autoreload 7456 13816 Watching for file changes with StatReloader
+INFO 2026-05-18 21:06:22,562 autoreload 13776 8976 Watching for file changes with StatReloader
+INFO 2026-05-18 21:06:28,103 log 7456 10040 "GET / HTTP/1.1" 200 8491
+WARNING 2026-05-18 21:06:28,127 log 7456 10040 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-18 21:06:31,186 log 7456 14252 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:06:34,350 log 7456 14252 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:06:34,364 log 7456 14252 "GET /home/ HTTP/1.1" 200 11390
+INFO 2026-05-18 21:16:50,243 autoreload 11852 11460 Watching for file changes with StatReloader
+INFO 2026-05-18 21:16:57,803 log 7456 12832 "GET / HTTP/1.1" 200 6876
+WARNING 2026-05-18 21:16:57,825 log 7456 12832 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-18 21:17:05,642 log 7456 7736 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:17:16,638 log 7456 7736 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:17:16,647 log 7456 7736 "GET /home/ HTTP/1.1" 200 11390
+INFO 2026-05-18 21:17:59,259 log 7456 7736 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:18:03,028 log 7456 7736 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:18:03,035 log 7456 7736 "GET /home/ HTTP/1.1" 200 11390
+INFO 2026-05-18 21:18:13,325 log 7456 7736 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:19:58,394 log 7456 7736 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:26:06,284 autoreload 13776 8976 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\urls.py changed, reloading.
+INFO 2026-05-18 21:26:06,541 autoreload 7456 13816 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\urls.py changed, reloading.
+INFO 2026-05-18 21:26:06,983 autoreload 10808 13432 Watching for file changes with StatReloader
+INFO 2026-05-18 21:26:07,079 autoreload 11852 11460 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\urls.py changed, reloading.
+INFO 2026-05-18 21:26:07,210 autoreload 12064 14264 Watching for file changes with StatReloader
+INFO 2026-05-18 21:26:07,752 autoreload 2548 5412 Watching for file changes with StatReloader
+INFO 2026-05-18 21:26:17,979 autoreload 10808 13432 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:26:18,027 autoreload 12064 14264 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:26:18,596 autoreload 2548 5412 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:26:18,714 autoreload 6356 9372 Watching for file changes with StatReloader
+INFO 2026-05-18 21:26:18,743 autoreload 10784 7920 Watching for file changes with StatReloader
+INFO 2026-05-18 21:26:19,271 autoreload 4136 8996 Watching for file changes with StatReloader
+INFO 2026-05-18 21:29:02,390 autoreload 10328 624 Watching for file changes with StatReloader
+INFO 2026-05-18 21:29:08,883 log 6356 14524 "GET / HTTP/1.1" 200 6882
+WARNING 2026-05-18 21:29:08,905 log 6356 14524 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-18 21:29:12,961 log 6356 14252 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:30:11,074 log 6356 14252 "POST /admin-login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:30:11,086 log 6356 14252 "GET /home/ HTTP/1.1" 200 10475
+INFO 2026-05-18 21:30:42,934 log 6356 14252 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:30:50,284 log 6356 14252 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:30:50,292 log 6356 14252 "GET /home/ HTTP/1.1" 200 10450
+INFO 2026-05-18 21:30:58,515 log 6356 14252 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:30:58,519 log 6356 14252 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:31:08,506 log 6356 14252 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:31:08,514 log 6356 14252 "GET /home/ HTTP/1.1" 200 11390
+INFO 2026-05-18 21:31:28,198 log 6356 14252 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:31:35,468 log 6356 14252 "POST /admin-login/ HTTP/1.1" 200 5885
+INFO 2026-05-18 21:31:51,116 log 6356 14252 "POST /admin-login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:31:51,123 log 6356 14252 "GET /home/ HTTP/1.1" 200 10475
+INFO 2026-05-18 21:34:20,454 autoreload 10784 7920 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:34:20,498 autoreload 10328 624 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:34:20,692 autoreload 6356 9372 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:34:20,960 autoreload 4136 8996 E:\Projeto Amores\ProjetoBackend\ProjetoBackend\sistemaLogin\formulario\views.py changed, reloading.
+INFO 2026-05-18 21:34:21,189 autoreload 2956 3440 Watching for file changes with StatReloader
+INFO 2026-05-18 21:34:21,212 autoreload 14760 12432 Watching for file changes with StatReloader
+INFO 2026-05-18 21:34:21,413 autoreload 14920 14912 Watching for file changes with StatReloader
+INFO 2026-05-18 21:34:21,712 autoreload 14908 972 Watching for file changes with StatReloader
+INFO 2026-05-18 21:35:46,370 autoreload 15352 13568 Watching for file changes with StatReloader
+INFO 2026-05-18 21:35:55,003 log 15352 1324 "GET / HTTP/1.1" 200 6882
+WARNING 2026-05-18 21:35:55,024 log 15352 1324 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-18 21:36:00,563 log 15352 7128 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:36:05,362 log 15352 7128 "POST /admin-login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:36:05,379 log 15352 7128 "GET /home/ HTTP/1.1" 200 20944
+INFO 2026-05-18 21:37:02,339 log 15352 7128 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:37:31,051 log 15352 7128 "POST /admin-login/ HTTP/1.1" 200 5885
+INFO 2026-05-18 21:37:43,894 log 15352 7128 "POST /admin-login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:37:43,907 log 15352 7128 "GET /home/ HTTP/1.1" 200 20944
+INFO 2026-05-18 21:38:06,538 log 15352 7128 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:38:06,548 log 15352 7128 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:38:14,818 log 15352 7128 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:38:20,705 log 15352 7380 "GET / HTTP/1.1" 200 6882
+WARNING 2026-05-18 21:38:20,734 log 15352 7380 "GET /static/bg.png HTTP/1.1" 404 1945
+INFO 2026-05-18 21:38:22,967 log 15352 14076 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:38:31,707 log 15352 14076 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:38:31,717 log 15352 14076 "GET /home/ HTTP/1.1" 200 11390
+INFO 2026-05-18 21:38:46,347 log 15352 14076 "POST /home/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:38:46,356 log 15352 14076 "GET /home/ HTTP/1.1" 200 12499
+INFO 2026-05-18 21:38:56,238 log 15352 14076 "GET /home/ HTTP/1.1" 200 11921
+INFO 2026-05-18 21:38:59,527 log 15352 14076 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:39:04,371 log 15352 14076 "POST /admin-login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:39:04,383 log 15352 14076 "GET /home/ HTTP/1.1" 200 22250
+INFO 2026-05-18 21:39:19,347 log 15352 14076 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:39:20,877 log 15352 14076 "GET /registro/ HTTP/1.1" 200 6214
+INFO 2026-05-18 21:40:15,989 log 15352 14076 "POST /registro/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:40:15,993 log 15352 14076 "GET /login/ HTTP/1.1" 200 4790
+INFO 2026-05-18 21:40:21,850 log 15352 14076 "POST /login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:40:21,858 log 15352 14076 "GET /home/ HTTP/1.1" 200 10446
+INFO 2026-05-18 21:40:39,482 log 15352 14076 "POST /home/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:40:39,491 log 15352 14076 "GET /home/ HTTP/1.1" 200 11393
+INFO 2026-05-18 21:40:45,926 log 15352 14076 "GET /logout/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:40:45,929 log 15352 14076 "GET /login/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:40:48,941 log 15352 14076 "GET /home/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:40:48,945 log 15352 14076 "GET /login/?next=/home/ HTTP/1.1" 200 4357
+INFO 2026-05-18 21:40:54,272 log 15352 14076 "GET /admin-login/ HTTP/1.1" 200 5389
+INFO 2026-05-18 21:40:56,512 log 15352 14076 "POST /admin-login/ HTTP/1.1" 200 5885
+INFO 2026-05-18 21:41:01,743 log 15352 14076 "POST /admin-login/ HTTP/1.1" 302 0
+INFO 2026-05-18 21:41:01,757 log 15352 14076 "GET /home/ HTTP/1.1" 200 24895
